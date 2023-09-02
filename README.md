@@ -14,10 +14,9 @@ Curto séries e amo ficar em casa, mas também sou chegado em viajar e curtir um
 ## Entre em contato comigo:
 
 <div style="display: inline_block;"></br>
-<a href="https://github.com/ojaimevitor/"><img alt="GitHub" align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-" style="margin-bottom: .5rem"></a>
-<a href="https://www.facebook.com/jaimev1tor/"><img alt="Facebook" align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" style="margin-bottom: .5rem"></a>
-<a href="https://instagram.com/ojaimevitor/"><img alt="Instagram" align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+<a href="https://github.com/ojaimevitor/" target="blank"><img alt="GitHub" align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="margin-bottom: .5rem"></a>
+<a href="https://www.facebook.com/jaimev1tor/" target="blank"><img alt="Facebook" align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook logoColor=white"style="margin-bottom: .5rem"></a>
+<a href="https://instagram.com/ojaimevitor/" target="blank"><img alt="Instagram" align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 " style="margin-bottom: .5rem"></a>
 </div>
 
